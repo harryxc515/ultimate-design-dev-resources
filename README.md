@@ -94,7 +94,7 @@
       4px 4px 10px rgba(0,0,0,0.5);
     animation: glow 2s ease-in-out infinite alternate;
   ">
-    🚀 Created By SHNWAZXC 🚀
+     Created By SHNWAZXC 
   </span>
 </h1>
 
